@@ -1,0 +1,5 @@
+{
+  "name": "Clinical Evaluation System: Safety-Critical Clinical Assistant",
+  "description": "A safety-first clinical reasoning assistant that evaluates clinical notes for informational sufficiency, deciding whether to ask clarifying questions or provide a grounded answer based strictly on available data.",
+  "requestFramePermissions": []
+}
