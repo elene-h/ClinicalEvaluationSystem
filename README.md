@@ -1,5 +1,5 @@
 
-# Run and deploy your AI Studio app
+# A safety-first clinical reasoning assistant that evaluates clinical notes for informational sufficiency, deciding whether to ask clarifying questions or provide a grounded answer based strictly on available data
 
 This contains everything you need to run your app locally.
 
